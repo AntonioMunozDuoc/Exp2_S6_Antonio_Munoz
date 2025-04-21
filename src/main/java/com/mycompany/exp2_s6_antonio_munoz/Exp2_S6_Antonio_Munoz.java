@@ -285,6 +285,7 @@ public class Exp2_S6_Antonio_Munoz {
             }
             imprimirVacio(ancho);
             imprimirIzquierda("Total..... $ " + total, ancho);
+            imprimirBorde (ancho);
             salida = true;  
         }
             
