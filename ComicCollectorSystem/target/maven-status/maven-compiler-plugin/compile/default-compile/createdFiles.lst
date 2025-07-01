@@ -1,0 +1,10 @@
+comiccollectorsystem\modelos\Manga.class
+comiccollectorsystem\manager\ArchivosManager.class
+comiccollectorsystem\modelos\NovelaGrafica.class
+comiccollectorsystem\modelos\Usuario.class
+comiccollectorsystem\ComicCollectorSystem.class
+comiccollectorsystem\gestion\ProductoYaPrestadoException.class
+comiccollectorsystem\modelos\Comic.class
+comiccollectorsystem\gestion\GestorTienda.class
+comiccollectorsystem\gestion\ProductoNoEncontradoException.class
+comiccollectorsystem\modelos\Libro.class
