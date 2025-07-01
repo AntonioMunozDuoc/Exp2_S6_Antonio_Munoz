@@ -334,6 +334,7 @@ public class GestorTienda {
         }
     }
     
+    //Metodo que actualiza el hashset con ids de usuarios una vez cargados los datos del archivo txt
     public void actualizarID(){
         for (String id : usuarios.keySet()) {
             idsUsuarios.add(id);
