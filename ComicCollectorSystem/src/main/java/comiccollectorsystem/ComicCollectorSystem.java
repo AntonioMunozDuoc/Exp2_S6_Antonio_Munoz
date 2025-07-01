@@ -24,6 +24,8 @@ public class ComicCollectorSystem {
         
         //Actualizacion del catalogo ordenado (treeset) luego de la lectura de archivos
         gestor.actualizarCatalogo();
+        //Actualizacion del hashmap con todas las id unicas de los usuarios luego de la carga de datos
+        gestor.actualizarID();
         
         System.out.println("Bienvendio a ComicCollector");
         int opcion = 10;

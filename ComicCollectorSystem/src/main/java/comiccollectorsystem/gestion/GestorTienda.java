@@ -333,6 +333,12 @@ public class GestorTienda {
             productosOrdenados.add(novelaTree);
         }
     }
+    
+    public void actualizarID(){
+        for (String id : usuarios.keySet()) {
+            idsUsuarios.add(id);
+        }
+    }
 }
    
 
